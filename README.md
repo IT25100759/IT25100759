@@ -1,3 +1,3 @@
 <h1>
-Hi, I'm Sathurthika Tharmananthan 
+Hi, I'm Sathurthika Lojithan
 </h1>
